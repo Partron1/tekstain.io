@@ -1,6 +1,6 @@
-# UX Polish Prompt — Tekstain Nexus ESG Platform
+# UX Polish Prompt — Tekstain.oi ESG Platform
 
-Act as a senior UX/UI designer. Review and polish the existing Tekstain Nexus ESG and Carbon Management Platform interface to make it clear, professional, accessible, responsive, and easy to use for Ghanaian SMEs and users who may not be ESG specialists.
+Act as a senior UX/UI designer. Review and polish the existing Tekstain.io ESG and Carbon Management Platform interface to make it clear, professional, accessible, responsive, and easy to use for Ghanaian SMEs and users who may not be ESG specialists.
 
 ## Instructions
 
