@@ -1,0 +1,7 @@
+# Blank Slate
+
+Initialize this project in a paused, empty state.
+
+Do not generate features, files, or code.
+Do not infer a goal.
+Acknowledge and wait for my instructions.
