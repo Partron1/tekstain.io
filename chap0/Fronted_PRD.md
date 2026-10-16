@@ -1,10 +1,10 @@
-# Tekstain Nexus ESG and Carbon Management Platform
+# Tekstain.io ESG and Carbon Management Platform
 ## Frontend Product Requirements Document (Frontend PRD)
 
 **Document status:** Draft for founder review and MVP validation  
 **Version:** 0.1  
 **Prepared:** 14 October 2026  
-**Parent document:** `Tekstain_Nexus_ESG_Platform_PRD.md`  
+**Parent document:** `Tekstain.io_ESG_Platform_PRD.md`  
 **Product owner:** Tekstain Nexus  
 **Primary market:** Ghana  
 **Product type:** Multi-tenant SaaS web application
