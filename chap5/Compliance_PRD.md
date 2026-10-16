@@ -1,4 +1,4 @@
-# Compliance PRD Generation Prompt — Tekstain Nexus
+# Compliance PRD Generation Prompt — Tekstain.io
 
 Act as a senior product manager, ESG compliance analyst, privacy specialist, and software requirements engineer. Create a concise but implementation-ready **Compliance Product Requirements Document (PRD)** for the Tekstain Nexus ESG and Carbon Management Platform, designed initially for SMEs and larger organizations in Ghana, with possible future expansion to other African markets.
 
@@ -6,7 +6,7 @@ Act as a senior product manager, ESG compliance analyst, privacy specialist, and
 Define how the platform should help organizations manage compliance-related information, evidence, obligations, controls, and reporting workflows. The platform may support compliance work, but must not claim to guarantee legal compliance or replace qualified legal advice, independent assurance, or regulator approval.
 
 ## Instructions
-1. Review the available project documents first, including the main PRD, `Frontend_PRD.md`, `Architecture.md`, and `Kwoledge_base.md`, if they are available. Reuse confirmed decisions and flag contradictions or missing decisions rather than silently resolving them.
+1. Review the available project documents first, including the main PRD, `Frontend_PRD.md`, `Architecture.md`, and `Knowledge_base.md`, if they are available. Reuse confirmed decisions and flag contradictions or missing decisions rather than silently resolving them.
 2. Research current requirements using authoritative sources when web research is available. Prioritize official Ghanaian legislation and regulators, official reporting-framework publishers, and primary standards sources.
 3. Clearly distinguish **binding legal obligations**, **sector-specific requirements**, **voluntary frameworks**, **customer or investor expectations**, and **recommended good practice**. Do not assume all organizations have the same obligations.
 4. For every legal or regulatory requirement, record the jurisdiction, affected organization types, source and link, publication/effective date or version where available, verification date, and any uncertainty requiring professional review. Do not invent laws, citations, reporting deadlines, or compliance claims.
