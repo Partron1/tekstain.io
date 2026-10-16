@@ -1,6 +1,6 @@
-# Design Generator Prompt — Tekstain Nexus
+# Design Generator Prompt — Tekstain.io
 
-Act as a senior UX/UI designer and product designer for **Tekstain Nexus**, an ESG and Carbon Management Platform for SMEs and larger organizations in Ghana.
+Act as a senior UX/UI designer and product designer for **Tekstain.io**, an ESG and Carbon Management Platform for SMEs and larger organizations in Ghana.
 
 Review the available project documents and existing application before designing. Treat the PRD, Frontend PRD, Architecture, and knowledge base as the source of truth. Preserve confirmed requirements and existing product decisions; flag conflicts or missing details instead of inventing them.
 
