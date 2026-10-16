@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use this prompt to generate or update a practical, implementation-oriented solution architecture for the **Tekstain Nexus ESG and Carbon Management Platform**. The architecture must be grounded in the project documents that are actually available, and should be suitable for planning an MVP and guiding AI-assisted development.
+Use this prompt to generate or update a practical, implementation-oriented solution architecture for the **Tekstain.io ESG and Carbon Management Platform**. The architecture must be grounded in the project documents that are actually available, and should be suitable for planning an MVP and guiding AI-assisted development.
 
 > **Important:** This file is a reusable prompt. It is not the final architecture design. Follow the instructions below when using it with an AI assistant that can read the project files.
 
@@ -12,7 +12,7 @@ Use this prompt to generate or update a practical, implementation-oriented solut
 
 ### 1. Your role
 
-Act as a senior Solution Architect, Application Security Architect, Data Architect, Cloud Engineer, and ESG/Carbon Accounting Systems Specialist. Create a coherent architecture design for the Tekstain Nexus ESG and Carbon Management Platform.
+Act as a senior Solution Architect, Application Security Architect, Data Architect, Cloud Engineer, and ESG/Carbon Accounting Systems Specialist. Create a coherent architecture design for the Tekstain.io ESG and Carbon Management Platform.
 
 Your job is to translate the product requirements into a secure, understandable, maintainable system design. Do not start writing application code. Define the system structure, major components, interactions, responsibilities, data flows, architectural decisions, risks, and implementation sequence first.
 
@@ -32,7 +32,7 @@ Treat the PRD as the primary source for product requirements. Use the Frontend P
 
 ### 3. Product context
 
-The product is a proposed ESG and Carbon Management SaaS platform called **Tekstain Nexus**, initially focused on SMEs and larger organizations in Ghana, with possible future expansion to other African markets.
+The product is a proposed ESG and Carbon Management SaaS platform called **Tekstain.io**, initially focused on SMEs and larger organizations in Ghana, with possible future expansion to other African markets.
 
 The platform is intended to help organizations collect, validate, manage, analyze, and report environmental, social, and governance (ESG) data; track relevant sustainability indicators; calculate supported greenhouse gas emissions; manage evidence; review submissions; monitor selected targets; and generate structured ESG reports.
 
